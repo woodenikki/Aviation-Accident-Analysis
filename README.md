@@ -1,6 +1,9 @@
 # dsc-phase-1-project
 
-## Overview
+## Deliverables
+
+- [Tableau Dashboard](https://public.tableau.com/app/profile/nik.w2761/viz/Phase1Proj/Dashboard1?publish=yes)
+- [slides](https://docs.google.com/presentation/d/1SUX0FYUdQXvw60QDsacoQq_Em-kvCsd8In6pqKydCF8/edit?usp=sharing)
 
 ## Business Understanding
 
