@@ -1,4 +1,5 @@
-# dsc-phase-1-project
+# Aviation Accident Analysis
+Identifying highest risks in aviation transportation
 
 ## Deliverables
 
